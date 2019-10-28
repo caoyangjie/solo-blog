@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [OAuth2快速接入开发手册](https://www.chaosj.top/articles/2019/10/28/1572233239722.html)
+* [美团面试题之 Java类加载过程](https://www.chaosj.top/articles/2019/10/28/1572229129175.html)
 * [MySQL开发技巧](https://www.chaosj.top/articles/2019/09/28/1569647454998.html)
 * [GIT入门指南](https://www.chaosj.top/articles/2019/09/28/1569634598608.html)
 * [Docker 下载镜像](https://www.chaosj.top/articles/2019/09/28/1569634534054.html)
@@ -28,16 +30,16 @@
 * [知名公众号知识点整理](https://www.chaosj.top/articles/2019/09/16/1568621295100.html)
 * [架构师之路2019年热门文章](https://www.chaosj.top/articles/2019/09/16/1568621028949.html)
 * [架构师之路2018年热门文章](https://www.chaosj.top/articles/2019/09/16/1568621007612.html)
-* [架构师之路2017年热门文章](https://www.chaosj.top/articles/2019/09/16/1568620954670.html)
-* [Spring AOP的经典用法](https://www.chaosj.top/articles/2019/09/16/1568606510993.html)
 
 ### 热门
 
 * [深入理解 Java 虚拟机 读后总结](https://www.chaosj.top/articles/2019/09/14/1568444795596.html)
+* [架构师之路2017年热门文章](https://www.chaosj.top/articles/2019/09/16/1568620954670.html)
 * [Spring Frame work5中文文档](https://www.chaosj.top/articles/2019/09/16/1568602665088.html)
 * [各大互联网公司架构演进之路汇总](https://www.chaosj.top/articles/2019/09/15/1568558124761.html)
 * [MySQL双主一致性架构优化](https://www.chaosj.top/articles/2019/09/15/1568538265715.html)
 * [Java 技术书籍大全](https://www.chaosj.top/articles/2019/09/16/1568588746718.html)
+* [Spring AOP的经典用法](https://www.chaosj.top/articles/2019/09/16/1568606510993.html)
 * [《mybatis-pagerhelper源码》阅读笔记](https://www.chaosj.top/articles/2019/09/16/1568596909949.html)
 * [ORM](https://www.chaosj.top/articles/2019/09/16/1568606111810.html)
 * [《mybatis源码》阅读笔记](https://www.chaosj.top/articles/2019/09/16/1568597121523.html)
@@ -45,14 +47,12 @@
 * [Spring入门指南](https://www.chaosj.top/articles/2019/09/16/1568605676646.html)
 * [IOC容器](https://www.chaosj.top/articles/2019/09/16/1568605807496.html)
 * [WebSocket 支持](https://www.chaosj.top/articles/2019/09/16/1568606238888.html)
-* [单元测试](https://www.chaosj.top/articles/2019/09/16/1568605970772.html)
 * [使用Spring提供远程和WEB服务-JMX技术](https://www.chaosj.top/articles/2019/09/16/1568606361727.html)
 * [JMS技术](https://www.chaosj.top/articles/2019/09/16/1568606317091.html)
 * [alias的初次体验](https://www.chaosj.top/articles/2019/09/14/1568432348173.html)
-* [docker连接网络的设置](https://www.chaosj.top/articles/2019/09/15/1568548542949.html)
+* [单元测试](https://www.chaosj.top/articles/2019/09/16/1568605970772.html)
 * [互联网公司为啥不使用mysql分区表？](https://www.chaosj.top/articles/2019/09/15/1568539640341.html)
 * [介绍Spring框架](https://www.chaosj.top/articles/2019/09/16/1568605757779.html)
-* [ 电子邮件](https://www.chaosj.top/articles/2019/09/16/1568606394765.html)
 
 ### 热议
 
