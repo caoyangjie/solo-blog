@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [spring boot + spring cache 实现两级缓存（redis + caffeine）](https://www.chaosj.top/articles/2019/11/06/1573032633624.html)
 * [OAuth2快速接入开发手册](https://www.chaosj.top/articles/2019/10/28/1572233239722.html)
 * [美团面试题之 Java类加载过程](https://www.chaosj.top/articles/2019/10/28/1572229129175.html)
 * [MySQL开发技巧](https://www.chaosj.top/articles/2019/09/28/1569647454998.html)
@@ -29,30 +30,29 @@
 * [后端架构师技术图谱](https://www.chaosj.top/articles/2019/09/16/1568636591578.html)
 * [知名公众号知识点整理](https://www.chaosj.top/articles/2019/09/16/1568621295100.html)
 * [架构师之路2019年热门文章](https://www.chaosj.top/articles/2019/09/16/1568621028949.html)
-* [架构师之路2018年热门文章](https://www.chaosj.top/articles/2019/09/16/1568621007612.html)
 
 ### 热门
 
 * [深入理解 Java 虚拟机 读后总结](https://www.chaosj.top/articles/2019/09/14/1568444795596.html)
 * [架构师之路2017年热门文章](https://www.chaosj.top/articles/2019/09/16/1568620954670.html)
+* [架构师之路2018年热门文章](https://www.chaosj.top/articles/2019/09/16/1568621007612.html)
 * [Spring Frame work5中文文档](https://www.chaosj.top/articles/2019/09/16/1568602665088.html)
 * [各大互联网公司架构演进之路汇总](https://www.chaosj.top/articles/2019/09/15/1568558124761.html)
-* [Spring注解编程模型](https://www.chaosj.top/articles/2019/09/16/1568606489396.html)
 * [alias的初次体验](https://www.chaosj.top/articles/2019/09/14/1568432348173.html)
+* [Spring AOP的经典用法](https://www.chaosj.top/articles/2019/09/16/1568606510993.html)
 * [Java 技术书籍大全](https://www.chaosj.top/articles/2019/09/16/1568588746718.html)
+* [Spring注解编程模型](https://www.chaosj.top/articles/2019/09/16/1568606489396.html)
+* [MySQL双主一致性架构优化](https://www.chaosj.top/articles/2019/09/15/1568538265715.html)
 * [Spring入门指南](https://www.chaosj.top/articles/2019/09/16/1568605676646.html)
 * [《mybatis源码》阅读笔记](https://www.chaosj.top/articles/2019/09/16/1568597121523.html)
-* [MySQL双主一致性架构优化](https://www.chaosj.top/articles/2019/09/15/1568538265715.html)
-* [ORM](https://www.chaosj.top/articles/2019/09/16/1568606111810.html)
 * [《mybatis-pagerhelper源码》阅读笔记](https://www.chaosj.top/articles/2019/09/16/1568596909949.html)
-* [Spring AOP的经典用法](https://www.chaosj.top/articles/2019/09/16/1568606510993.html)
-* [单元测试](https://www.chaosj.top/articles/2019/09/16/1568605970772.html)
-* [JMS技术](https://www.chaosj.top/articles/2019/09/16/1568606317091.html)
-* [使用Spring提供远程和WEB服务-JMX技术](https://www.chaosj.top/articles/2019/09/16/1568606361727.html)
+* [ORM](https://www.chaosj.top/articles/2019/09/16/1568606111810.html)
 * [浅谈CAS(Compare and Swap) 原理](https://www.chaosj.top/articles/2019/09/15/1568534899478.html)
-* [IOC容器](https://www.chaosj.top/articles/2019/09/16/1568605807496.html)
-* [WebSocket 支持](https://www.chaosj.top/articles/2019/09/16/1568606238888.html)
+* [使用 O/X(Object/XML)映射器对XML进行编组](https://www.chaosj.top/articles/2019/09/16/1568606130406.html)
+* [视图技术](https://www.chaosj.top/articles/2019/09/16/1568606171035.html)
+* [单元测试](https://www.chaosj.top/articles/2019/09/16/1568605970772.html)
 * [Spring框架的新功能](https://www.chaosj.top/articles/2019/09/16/1568606471085.html)
+* [互联网公司为啥不使用mysql分区表？](https://www.chaosj.top/articles/2019/09/15/1568539640341.html)
 
 ### 热议
 
@@ -72,10 +72,10 @@
 * [58到家数据库30条军规解读](https://www.chaosj.top/articles/2019/09/15/1568540713657.html)
 * [赶集mysql军规](https://www.chaosj.top/articles/2019/09/15/1568540754794.html)
 * [业界难题-“跨库分页”的四种方案](https://www.chaosj.top/articles/2019/09/15/1568540824336.html)
-* [互联网公司为啥不使用mysql分区表？](https://www.chaosj.top/articles/2019/09/15/1568539640341.html)
 * [或许你不知道的10条SQL技巧](https://www.chaosj.top/articles/2019/09/15/1568540920011.html)
 * [MySQL的or/in/union与索引优化 ](https://www.chaosj.top/articles/2019/09/15/1568540956220.html)
 * [100亿数据1万属性数据架构设计](https://www.chaosj.top/articles/2019/09/15/1568541080878.html)
+* [到底什么时候该使用MQ？](https://www.chaosj.top/articles/2019/09/15/1568541127635.html)
 
 ---
 
