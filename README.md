@@ -41,18 +41,18 @@
 * [架构师之路2019年热门文章](https://www.chaosj.top/articles/2019/09/16/1568621028949.html)
 * [Spring Frame work5中文文档](https://www.chaosj.top/articles/2019/09/16/1568602665088.html)
 * [各大互联网公司架构演进之路汇总](https://www.chaosj.top/articles/2019/09/15/1568558124761.html)
-* [alias的初次体验](https://www.chaosj.top/articles/2019/09/14/1568432348173.html)
-* [Java 技术书籍大全](https://www.chaosj.top/articles/2019/09/16/1568588746718.html)
-* [ORM](https://www.chaosj.top/articles/2019/09/16/1568606111810.html)
+* [分表分库的原则](https://www.chaosj.top/articles/2019/09/15/1568543516876.html)
 * [《mybatis源码》阅读笔记](https://www.chaosj.top/articles/2019/09/16/1568597121523.html)
+* [ORM](https://www.chaosj.top/articles/2019/09/16/1568606111810.html)
+* [alias的初次体验](https://www.chaosj.top/articles/2019/09/14/1568432348173.html)
 * [MySQL双主一致性架构优化](https://www.chaosj.top/articles/2019/09/15/1568538265715.html)
 * [Spring注解编程模型](https://www.chaosj.top/articles/2019/09/16/1568606489396.html)
 * [《mybatis-pagerhelper源码》阅读笔记](https://www.chaosj.top/articles/2019/09/16/1568596909949.html)
 * [Spring AOP的经典用法](https://www.chaosj.top/articles/2019/09/16/1568606510993.html)
+* [Java 技术书籍大全](https://www.chaosj.top/articles/2019/09/16/1568588746718.html)
 * [Spring入门指南](https://www.chaosj.top/articles/2019/09/16/1568605676646.html)
-* [视图技术](https://www.chaosj.top/articles/2019/09/16/1568606171035.html)
+* [10w定时任务，如何高效触发超时](https://www.chaosj.top/articles/2019/09/15/1568535662616.html)
 * [单元测试](https://www.chaosj.top/articles/2019/09/16/1568605970772.html)
-* [Spring框架的新功能](https://www.chaosj.top/articles/2019/09/16/1568606471085.html)
 
 ### 热议
 
